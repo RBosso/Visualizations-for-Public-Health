@@ -1,6 +1,6 @@
 # Visualizations-for-Public-Health
 
-Transformation, visualization, and analysis of public health data describing the COVID-19 Pandemic for 2020 - 2023, in combination with other publicly available international data extracted from the CIA World Factbook, using Python, Hive SQL, Scala, and an Apache Spark framework. 
+Transformation, visualization, and analysis of public health data describing the COVID-19 Pandemic for 2020 - 2023, in combination with other publicly available international data extracted from the CIA World Factbook, using Python, Hive SQL, and Scala, implemented within an Apache Spark framework. 
 
 Follow this link below to see the implementation of visuals and analysis generated for this data, using a Databricks notebook:
 
