@@ -1,12 +1,13 @@
 # Visualizations-for-Public-Health
 
+Transformation, visualization, and analysis of public health data describing the COVID-19 Pandemic for 2020 - 2023, in combination with other publicly available international data extracted from the CIA World Factbook, using Python, Hive SQL, Scala, and an Apache Spark framework. 
+
+Follow this link below to see the implementation of visuals and analysis generated for this data, using a Databricks notebook:
+
 https://rbosso.github.io/RichardBosso.github.io/Public%20Health%20Statistics%20for%20COVID-19.html 
 
-SQL implementation used to generate datasets, featuring public health statistics that were then visualized into Tableau, as can be viewed at the link below:
+This repository also includes a Jupyter notebook, containing some preliminary public health data visualizations and correlation analysis.
 
-https://public.tableau.com/app/profile/rick1378
-
-Includes a notebook of public health data visualizations and correlation analysis, implemented in Python on a Jupyter notebook using various libraries.
 
 
 #Source of Data Used:
@@ -37,9 +38,8 @@ Hasell, J., Mathieu, E., Beltekian, D. et al. A cross-country database of COVID-
 
 The data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our database, and you should always check the license of any such third-party data before use.
 
-Authors This data has been collected, aggregated, and documented by Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser.
+Authors This data has been collected, aggregated, and documented by Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser."
 
-Our World in Data makes data and research on the world's largest problems understandable and accessible. Read more about our mission."
 
 Additionally, all data contained in cleanedWorldFactbookDataframe.csv is sourced from the CIA World Factbook, as cited here:
 
